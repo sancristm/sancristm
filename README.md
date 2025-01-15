@@ -30,8 +30,8 @@ I'm a Software Engineer specializing in backend development. I love solving prob
 
 ## My Skills & Technologies
 - **Languages:** Java, JavaScript, TypeScript, Go, Rust, C, C++, Python
-- **Backend:** Spring Boot, Node.js
-- **Frontend:** React, Next.js
+- **Backend:** Spring Boot, Node.js, Spring 
+- **Frontend:** React, Next.js, Remix
 - **Databases:** MySQL, MongoDB,PostgreSQL
 - **Tools:** Git, Docker, Vite, Apollo Server,k8
 
