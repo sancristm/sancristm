@@ -35,10 +35,6 @@ I'm a Software Engineer specializing in backend development. I love solving prob
 - **Databases:** MySQL, MongoDB,PostgreSQL
 - **Tools:** Git, Docker, Vite, Apollo Server,k8
 
-## My Projects
-- [Project 1: Car Management System](https://github.com/sancristm/Car-app-backend) - A backend system to manage cars.
-- [Project 2: Blog Application](https://github.com/sancristm/blog-app) - A simple blog app built with Spring Boot.
-
 ## Contact
 - Email: sancristma@gmail.com
 - Phone: +254728673771
